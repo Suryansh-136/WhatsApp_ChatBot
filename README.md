@@ -1,1 +1,1 @@
-# WhatsApp ChatBot
+# Telegram Students ChatBot
